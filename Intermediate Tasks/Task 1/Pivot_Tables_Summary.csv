@@ -1,0 +1,19 @@
+Region,Sum of profit,,Category,Average of rating,Sum of review_count,,Category,Sum of profit,,
+Asia,408759.9915,,Beauty,2.98518606,2095772,,Beauty,277531.2485,,
+Europe,405615.5785,,Books,3.020259397,2061533,,Books,274243.1515,,
+Middle East,415092.225,,Electronics,2.991298077,2065438,,Electronics,273529.7015,,
+North America,413860.892,,Fashion,2.987782427,2092536,,Fashion,274006.167,,
+Grand Total,1643328.687,,Home & Kitchen,2.996706224,2076392,,Home & Kitchen,273656.6275,,
+,,,Sports,2.996890502,2074793,,Sports,270361.791,,
+,,,Grand Total,2.996316,12466464,,Grand Total,1643328.687,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Discount %,Sum of quantity_sold,Average of profit,,Totral orders,Payment Method,,,,,
+0,24537,37.45165111,,Region,Cash on Delivery,Credit Card,Debit Card,UPI,Wallet,Grand Total
+5,25448,36.39097646,,Asia,2487,2486,2451,2606,2496,12526
+10,24901,34.52843916,,Europe,2411,2468,2551,2478,2544,12452
+15,24958,32.02228586,,Middle East,2544,2493,2486,2456,2526,12505
+20,25272,30.73181466,,North America,2485,2461,2493,2538,2540,12517
+30,24854,26.07781929,,Grand Total,9927,9908,9981,10078,10106,50000
+Grand Total,149970,32.86657374,,,,,,,,
