@@ -1,0 +1,41 @@
+feature,importance
+location_India,0.22218235
+location_USA,0.14033349
+job_title_Data Analyst,0.083532326
+job_title_Business Analyst,0.07634461
+location_Canada,0.06566156
+experience_years,0.06220059
+education_level,0.052698355
+location_UK,0.045733817
+job_title_Frontend Developer,0.038222443
+job_title_Machine Learning Engineer,0.03252696
+location_Germany,0.030370958
+job_title_Backend Developer,0.027190074
+job_title_Software Engineer,0.02406525
+company_size,0.017919058
+job_title_Data Scientist,0.014812591
+job_title_DevOps Engineer,0.009835571
+job_title_Cybersecurity Analyst,0.00948707
+job_title_Product Manager,0.0091764
+remote_work_Yes,0.008194572
+job_title_Cloud Engineer,0.0072586164
+skills_count,0.0061959857
+certifications_5,0.0035014322
+certifications_4,0.0025123125
+certifications_3,0.0016779967
+certifications_2,0.000979194
+certifications_1,0.0008070727
+location_Singapore,0.00067285437
+location_Remote,0.00054457877
+remote_work_No,0.0004944213
+location_Netherlands,0.00048490433
+location_Sweden,0.00048482604
+industry_Retail,0.00046837277
+industry_Media,0.00046749462
+industry_Healthcare,0.00046498558
+industry_Education,0.0004390461
+industry_Telecom,0.00041787582
+industry_Government,0.00041655524
+industry_Finance,0.00041246903
+industry_Technology,0.0004066722
+industry_Manufacturing,0.00040434027

@@ -1,0 +1,2 @@
+Model,Test MAE,Test RMSE,Test R²,CV MAE (mean),CV MAE (std),CV R² (mean),CV R² (std)
+XGBoost (tuned),11973.99,15593.74,0.825,12157.87,39.44,0.8215,0.0019
